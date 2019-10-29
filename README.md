@@ -10,4 +10,4 @@
 
 ## Asynchronous operations
 - [xnimorz/use-debounce](https://github.com/xnimorz/use-debounce)
-- [react-async-hook](https://github.com/slorber/react-async-hook)
+- [slorber/react-async-hook](https://github.com/slorber/react-async-hook)
