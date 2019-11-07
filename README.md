@@ -4,6 +4,7 @@
 
 ## Data fetching
 
+- [tannerlinsley/react-query](https://github.com/tannerlinsley/react-query)
 - [zeit/swr](https://github.com/zeit/swr)
 - [CharlesStover/fetch-suspense](https://github.com/CharlesStover/fetch-suspense)
 - [bghveding/use-fetch](https://github.com/bghveding/use-fetch)
